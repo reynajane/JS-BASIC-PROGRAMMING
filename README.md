@@ -1,1 +1,1 @@
-# JS-Basic-Proragmming
+# JS-Basic-Programming
